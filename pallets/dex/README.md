@@ -11,4 +11,9 @@ With ``exchange_token`` one can swap a token to the current exchange rate.
 
 Compile the code by ``cargo build -p pallet-dex``
 
+### Things to improve:
+
+- Connect with Polkadot.js frontend
+- Add test cases
+
 Authored by Kilian Scheutwinkel
